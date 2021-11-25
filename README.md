@@ -1,7 +1,7 @@
 # scb_TS_course
 
 
-
+# exam
 You are in a data science team of a food company. A key information for your company is the price of crops because they are directly related to the cost of your products. You are given weekly crop price data from 2013 to 2017. Your task is to learn about the data and finally try to create some model that can predict crop prices. This prediction model will be used to set a price range for buying crops for the upcoming year.
 
 0. Visualize the data. Fill any missing values using methods you deem appropriate. (5 points)
