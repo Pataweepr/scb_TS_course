@@ -2,7 +2,7 @@
 
 ## download datasets to colab
 supervised-unsupervised  <br /> 
-`wget https://raw.githubusercontent.com/Pataweepr/scb_TS_course/master/exam/supervised-unsupervised/lending_club_loan_two.csv.zip`  (zipfile) <br /> 
+`wget https://raw.githubusercontent.com/Pataweepr/scb_TS_course/master/exam/supervised-unsupervised/lending_club_loan_two.csv.zip`  (zip file) <br /> 
 or  <br /> 
 `wget https://raw.githubusercontent.com/Pataweepr/scb_TS_course/master/exam/supervised-unsupervised/lending_club_loan_two.csv` (csv file) <br /> 
 
